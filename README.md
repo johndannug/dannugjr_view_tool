@@ -19,7 +19,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DannugjrViewTool::Renderer.copyright 'John Roe Dannug','All Rights Reserved'
+```
+
 
 ## Development
 
